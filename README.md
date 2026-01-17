@@ -1,4 +1,4 @@
-# Traduzione Italiana – StarRupture
+# Traduzione Italiana – StarRupture - Update
 
 ---
 
@@ -32,14 +32,14 @@ Nella **root del gioco** (la stessa cartella dove si trova l’`exe` del gioco) 
  └── 📂 StarRupture
       └── 📂 Content
            └── 📂 Paks
-                ├── pakchunk9999-Windows.pak
-                ├── pakchunk9999-Windows.utoc
-                └── pakchunk9999-Windows.ucas
+                ├── pakchunk9999-Windows-Italian.pak
+                ├── pakchunk9999-Windows-Italian.utoc
+                └── pakchunk9999-Windows-Italian.ucas
 ```
 
 
 ## ▶️ Avvio
-1. Avvia il gioco normalmente da Steam, vai nelle opzioni e come lingua seleziona il tedesco.
+1. Avvia il gioco normalmente da Steam, vai nelle opzioni e come lingua seleziona la lingua di sistema.
 2. Se l’installazione è corretta, i testi compariranno in **italiano**.  
 
 ---
